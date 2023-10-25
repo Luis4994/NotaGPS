@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotaGPS</string>
+
+    <string name="tv_inicio">Conoce las sedes Santo Tomas</string>
+    <string name="btn_sedes">Sedes</string>
+
+</resources>
